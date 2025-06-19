@@ -27,3 +27,13 @@ Netcat
 
 Metasploit Framework
 
+📁 The walkthrough is included in THM-Alfred-Walkthrough.pdf and outlines each step clearly, with commands, explanations, and best practices.
+
+🎯 Great for anyone looking to strengthen their skills in:
+
+Penetration testing
+
+Red team techniques
+
+Windows post-exploitation
+
